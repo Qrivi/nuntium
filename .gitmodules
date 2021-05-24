@@ -1,0 +1,7 @@
+[submodule "nuntium-server"]
+	path = nuntium-server
+	url = https://github.com/Qrivi/nuntium-server.git
+[submodule "nuntium-app"]
+	path = nuntium-app
+	url = https://github.com/Qrivi/nuntium-app.git
+	
